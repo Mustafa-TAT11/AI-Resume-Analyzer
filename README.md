@@ -1,14 +1,12 @@
 # 🤖 AI Resume Analyzer
 
 An AI-powered Resume Analyzer built using **Python, Streamlit, Google Gemini AI, Sentence Transformers, and ReportLab**. It analyzes resumes against job descriptions using ATS scoring, semantic similarity, AI-powered feedback, and generates a downloadable PDF report.
-
 ---
 
-## 🚀 Live Demo
-
-Coming Soon (Streamlit Cloud)
-
----
+## 🌐 Live Demo
+https://ai-resume-analyze-epdc8ak5btq28qw69xh6a6.streamlit.app/
+## 📂 GitHub Repository
+https://github.com/Mustafa-TAT11/AI-Resume-Analyzer
 
 ## 📌 Features
 
